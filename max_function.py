@@ -1,4 +1,4 @@
-def find_max(my list):
+def find_max(my_list):
     max_value = my_list[0]
     for item in my_list:
         if item > max_value:
